@@ -10,11 +10,11 @@ LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
 int sec = 0;
 int DEF_MIN = 0;
 
-#define APIKEY         "7cd7fd8016c3b9a80fb5b3f49d2ada45" // replace your pachube api key here
-#define SENSORID       "377183"   //light sensor id
-#define DEVICEID       "17341"    //edison device id
+#define APIKEY         "your_api_key" // replace your pachube api key here
+#define SENSORID       "your_sensor_id"   //light sensor id
+#define DEVICEID       "your_device_id"    //edison device id
 
-#define HEATSENSERID       "377190"   //light sensor id
+#define HEATSENSERID       "your_switch_sensor_id"   //switch sensor id
 bool ResponseBegin = false;
 
 #define btnRIGHT  0
