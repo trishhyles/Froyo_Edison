@@ -1,7 +1,7 @@
 # Froyo_Edison
 Made at Intel IoT 2015 - Shanghai
 
-##A machine which can made froyo auto  
+##A machine which can made froyo(frozen yoghurt) auto  
 1.Auto heat for any times  
 
 2.After heated, this machine can auto cool it down, and make froyo  
